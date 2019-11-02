@@ -1,1 +1,1 @@
-# Exerc-cios-T-cnica-e-Linguagem-Programa-o
+# Exercicios Tecnica e Linguagem Programacao
